@@ -1,0 +1,2 @@
+# ObfusWrap
+Wrapper for Bashfuscator
