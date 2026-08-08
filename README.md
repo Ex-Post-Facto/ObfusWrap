@@ -36,5 +36,5 @@ cd Bashfuscator
 python3 setup.py install --user
 ```
 
-For more information on Bashfuscator click ('here')['https://github.com/Bashfuscator/Bashfuscator']
+For more information on Bashfuscator click ['here']('https://github.com/Bashfuscator/Bashfuscator')
 to be taken to the original project's Github page.
