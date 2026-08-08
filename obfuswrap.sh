@@ -1,6 +1,14 @@
 #!/bin/bash
-
-# Coloring scheme for notfications and logo
+#
+#  ┏┓┏┓             
+#    ┃┃ ━━┏┓┏┓┏╋     
+#  ┗┛┗┛  ┣┛┗┛┛┗     
+#        ┛   ┏      
+#            ╋┏┓┏╋┏┓
+#            ┛┗┻┗┗┗┛
+################################                 
+                 
+# Coloring scheme for notfications
 ESC="\x1b["
 RESET=$ESC"39;49;00m"
 CYAN=$ESC"33;36m"
